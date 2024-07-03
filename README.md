@@ -7,8 +7,10 @@
 
 ![Pedro Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrorosinha&show_icons=true&theme=dark)
 
-## As tecnologias que eu uso no dia a dia! 👨🏻‍💻
 
+![As linguagens mais usadas nos projetos](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrorosinha&size_weight=0.5&count_weight=0.5)
+
+## As tecnologias que eu uso no dia a dia! 👨🏻‍💻
 <div style="display: inline-block"><br/>
     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
     <img alt="Java Spring Boot" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
@@ -18,4 +20,4 @@
     <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
     <img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-</div>
+</div><br/>
