@@ -5,11 +5,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://linkedin.com/inpedro-felipe-paulino-rosinha-792388228)
 
-![Pedro Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrorosinha&show_icons=true&theme=dark)
-
-
-![As linguagens mais usadas nos projetos](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrorosinha&size_weight=0.5&count_weight=0.5)
-
 ## As tecnologias que eu uso no dia a dia! 👨🏻‍💻
 <div style="display: inline-block"><br/>
     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
