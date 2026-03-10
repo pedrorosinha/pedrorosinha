@@ -1,11 +1,11 @@
-### Olá, eu sou o Pedro Felipe! 👋🏻
+### Hello, I'm Pedro Felipe!👋🏻
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/feliperosinha_/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://linkedin.com/inpedro-felipe-paulino-rosinha-792388228)
 
-## As tecnologias que eu uso no dia a dia! 👨🏻‍💻
+## The technologies I know and use every day 👨🏻‍💻
 <div style="display: inline-block"><br/>
     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
     <img alt="Java Spring Boot" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
@@ -17,7 +17,7 @@
     <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
     <img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
     <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
-    
+    <img alt="R" src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" />
 </div><br/>
 
 ![gitartwork](gitartwork.svg)
